@@ -1,0 +1,44 @@
+header {
+    background-color: #666;
+    padding: 3%;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    height: 88%;
+    background: #ccc;
+    text-align: center;
+}
+
+nav ul {
+    padding-left: 5px;
+}
+
+article {
+    float: left;
+    width: 80%;
+    background-color: #f1f1f1;
+    height: 88%;
+}
+
+footer {
+    background-color: #777;
+    text-align: center;
+}
+
+nav button {
+    margin: 6%;
+    width: 53%;
+    height: 10%;
+    color: cadetblue;
+    font-size: unset;
+    font-weight: bold;
+}
+
+#headerId {
+    background-color: aqua;
+}
